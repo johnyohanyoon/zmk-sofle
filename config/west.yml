@@ -29,5 +29,3 @@ manifest:
       revision: zmk-v0.3.0.0
   self:
     path: config
-
-  --
